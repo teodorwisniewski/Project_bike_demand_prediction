@@ -1,0 +1,11 @@
+
+
+*.pdf
+/.idea/
+/venv/
+/scripts/.ipynb_checkpoints/Explorary_analyses_Bike_Sharing_Demand-checkpoint.ipynb
+/scripts/.ipynb_checkpoints/exploratory_data_analyses_Bike_Sharing_Demand-checkpoint.ipynb
+/scripts/.ipynb_checkpoints/part2_training_testing_the_model_Bike_Sharing_Demand-checkpoint.ipynb
+/scripts/.ipynb_checkpoints/
+*.exe
+/.ipynb_checkpoints/
